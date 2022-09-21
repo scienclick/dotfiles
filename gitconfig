@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = scienclick@gmail.com
+	name = Amir Shamsa
